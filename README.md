@@ -1,4 +1,4 @@
-🏠 # Smart Home Automation System
+🏠 Smart Home Automation System
 
 This project involves the design of a user-friendly smart home system used to automate various household activities through integrated sensors and control devices.
 The system minimizes the need for human intervention while delivering a seamless and intuitive user experience.
@@ -6,7 +6,7 @@ The system minimizes the need for human intervention while delivering a seamless
 The design utilizes diverse sensors to gather real-time data on factors like temperature, humidity, motion, and light intensity.
 All connected devices can be controlled wirelessly using a computer, tablet, or smartphone over a local network.
 
-🛠️ #Technologies Used
+🛠️ Technologies Used
 Category	Details
 a. Microcontroller	ESP32 Plus Development Board
 b. Programming Languages	C / C++ (Arduino IDE)
